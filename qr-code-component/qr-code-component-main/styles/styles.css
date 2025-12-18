@@ -3,7 +3,12 @@ body {
 }
 
 section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #FFFFFF;
+    row-gap: 10px;
 }
 
 #item2 {

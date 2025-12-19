@@ -22,6 +22,7 @@ section {
     row-gap: 10px;
     height: 499px;
     width: 320px;
+    padding: 16px;
 }
 
 #item2 {

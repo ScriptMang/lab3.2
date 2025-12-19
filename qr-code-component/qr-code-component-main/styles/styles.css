@@ -23,6 +23,7 @@ section {
     height: 499px;
     width: 320px;
     padding: 16px;
+    border-radius: 20px;
 }
 
 #item2 {

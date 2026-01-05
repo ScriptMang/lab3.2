@@ -35,6 +35,14 @@ section {
     border: 3px solid orange;
 }
 
+
+.promo-card {
+    display: grid;
+    align-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
 #item2 {
     color: #1F314F;
     font-family: "Outfit", Bold;

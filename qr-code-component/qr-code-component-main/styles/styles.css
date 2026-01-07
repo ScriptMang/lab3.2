@@ -4,7 +4,6 @@ body {
     align-items: center;
     justify-items: center;
     background-color: #D5E1EF;
-    border: 3px solid black;
     height: 100vh;
 }
 
@@ -14,9 +13,6 @@ img {
     border-radius: 10px;
 }
 
-main {
-    border: 3px solid red;
-}
 
 section {
     display: flex;
@@ -28,12 +24,9 @@ section {
     width: 300px;
     padding: 16px;
     border-radius: 20px;
-    border: 3px solid blue;
 }
 
-#item1 {
-    border: 3px solid orange;
-} 
+
 
 .promo-card {
     display: grid;

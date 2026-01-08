@@ -33,3 +33,9 @@ section {
     flex-direction: column;
     row-gap: 12px;
 }
+
+.author-profile {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}

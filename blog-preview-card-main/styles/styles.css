@@ -26,3 +26,9 @@ section {
     height: 32px;
     width: 32px;
 }
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}

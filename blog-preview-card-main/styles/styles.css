@@ -4,6 +4,7 @@ body {
     align-items: center;
     justify-items: center;
     height: 100vh;
+    background-color: hsl(47, 88%, 63%);
 }
 
 section {
@@ -14,6 +15,7 @@ section {
     height: 522px;
     width: 384px;
     border: 3px solid black;
+    
 }
 
 #greg-img {

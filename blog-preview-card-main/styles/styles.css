@@ -34,8 +34,10 @@ section {
     row-gap: 12px;
 }
 
+
 .author-profile {
     display: flex;
     align-items: center;
+    justify-self: start;
     gap: 12px;
 }

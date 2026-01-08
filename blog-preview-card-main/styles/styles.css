@@ -56,6 +56,8 @@ section {
     align-items: center;
     justify-self: start;
     gap: 12px;
+    font-family: 'Fig-tree';
+    font-weight: 900;
 }
 
 .card-body > p {

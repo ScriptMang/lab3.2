@@ -56,3 +56,7 @@ section {
     justify-self: start;
     gap: 12px;
 }
+
+.card-body > p {
+    color: hsl(0, 0%, 42%);
+}

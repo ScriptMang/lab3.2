@@ -73,6 +73,7 @@ section {
 }
 
 .card-body > p {
+    margin: 0px;
     font-size: 16px;
     color: hsl(0, 0%, 42%);
 }

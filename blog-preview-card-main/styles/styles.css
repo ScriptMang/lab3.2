@@ -41,7 +41,11 @@ section {
     font-family: 'Fig-tree';
     font-size: 14px;
 }
-
+#blog-title {
+    font: 'Fig-tree';
+    font-size: 24px;
+    font-weight: 950;
+}
  #blog-img {
     width:366;
     border-radius: 10px;

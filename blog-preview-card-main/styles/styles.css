@@ -18,6 +18,10 @@ section {
     background-color: hsl(0, 0%, 100%);
 }
 
+ #blog-img {
+    border-radius: 10px;
+ }
+
 #greg-img {
     height: 32px;
     width: 32px;
